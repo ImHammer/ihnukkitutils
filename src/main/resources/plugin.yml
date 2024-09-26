@@ -1,0 +1,7 @@
+---
+name: "IHNukkitUtils"
+version: "1.0.0"
+main: "com.github.imhammer.ihnukkitutils.IHNukkitUtils"
+api: "1.0.0"
+description: "Created by ImHammer__"
+...
